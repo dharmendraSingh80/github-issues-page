@@ -1,3 +1,12 @@
+# Issues page
+This is a simplified clone of github issues page built using react.js
+
+## Hosted URL
+
+
+## screenshot
+![Screenshot (48)](https://user-images.githubusercontent.com/114590452/222737227-41ecb3c1-220e-44f7-8c07-fd5ed209d060.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
